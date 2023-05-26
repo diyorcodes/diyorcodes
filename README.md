@@ -10,9 +10,6 @@ I am interested in coding and programming since 1 year. That's why I started lea
 * 🧠  I'm learning Vue.js
 * ⚡  I don't like to laugh but... I can't stop laughing😂!
 
-<a href="https://www.github.com/diyorcodes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/diyorcodes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 
 ### Skills
