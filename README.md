@@ -3,7 +3,7 @@ Hi! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47
 I am Frontend Developer
 -----------------------
 
-I am interested in coding and programming since 1 year. That's why I started learning Frontend programming. My goal is to create great sites that benefit people and to work on and implement great projects.
+I am interested in coding and programming. That's why I started learning Frontend programming since 1 year. My goal is to create great websites and web apps that benefit people and also work on and implement great projects.
 
 * 🌍  I'm based in Ferghana
 * ✉️  You can contact me at [diyorcodes@gmail.com](mailto:diyorcodes@gmail.com)
