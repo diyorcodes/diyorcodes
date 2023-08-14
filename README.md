@@ -7,7 +7,7 @@ I am interested in coding and programming. That's why I started learning Fronten
 
 * 🌍  I'm based in Ferghana
 * ✉️  You can contact me at [diyorcodes@gmail.com](mailto:diyorcodes@gmail.com)
-* 🖥️  See my portfolio at [here]()
+* 🖥️  See my portfolio at [here](https://diyorcodes.netlify.app/)
 * 🧠  I'm learning Vue.js
 * ⚡  I don't like to laugh but... I can't stop laughing😂!
 
