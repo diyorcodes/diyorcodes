@@ -46,10 +46,10 @@ I am interested in coding and programming. That's why I started learning Fronten
   <br>
   
   <a href="#">
-    <img align="center" alt="Sabohat Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorcodes&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
+    <img align="center" alt="Diyorcodes Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorcodes&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
   </a>
   
   <a href="#">
-    <img align="center" alt="Sabohat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diyorcodes&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
+    <img align="center" alt="Diyorcodes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diyorcodes&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
   </a>
 </details>
