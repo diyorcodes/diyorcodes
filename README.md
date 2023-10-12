@@ -37,19 +37,16 @@ I am interested in coding and programming. That's why I started learning Fronten
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/diyorcodes"><img src="https://github-readme-stats.vercel.app/api?username=diyorcodes&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="diyorcodes's GitHub stats" /></a>
-
-<a href="https://github.com/diyorcodes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorcodes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<details>
-  <summary> Show Sabohat's Github Stats</summary>
-  <br>
-  
-  <a href="#">
+ <a href="#">
     <img align="center" alt="Diyorcodes Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorcodes&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
   </a>
   
   <a href="#">
     <img align="center" alt="Diyorcodes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diyorcodes&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
   </a>
-</details>
+
+<a href="http://www.github.com/diyorcodes"><img src="https://github-readme-stats.vercel.app/api?username=diyorcodes&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="diyorcodes's GitHub stats" /></a>
+
+<a href="https://github.com/diyorcodes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorcodes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
