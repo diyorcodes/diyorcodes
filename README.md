@@ -38,11 +38,11 @@ I am interested in coding and programming. That's why I started learning Fronten
 <b>My GitHub Stats</b>
 
  <a href="#">
-    <img align="center" alt="Diyorcodes Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorcodes&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
+    <img align="center" alt="Diyorcodes Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyorcodes&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
   </a>
   
   <a href="#">
-    <img align="center" alt="Diyorcodes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diyorcodes&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
+    <img align="center" alt="Diyorcodes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diyorcodes&count_private=true&hide_border=true&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
   </a>
 
 <a href="http://www.github.com/diyorcodes"><img src="https://github-readme-stats.vercel.app/api?username=diyorcodes&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="diyorcodes's GitHub stats" /></a>
